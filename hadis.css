@@ -1,0 +1,38 @@
+/*** Hadis ***/
+
+/*** HEADER START ***/
+
+
+[class|="navi"] {
+  list-style-type: none;
+  padding-left: 100px;
+  overflow: hidden;
+  display: outline-block;
+    font-size: 10px;
+    ;}
+
+.navi li {
+  float: left;
+}
+
+.navi li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 30px 32px;
+  text-decoration: none;
+  background-color: #CD950C; 
+   border: none;
+   font-size: 16px;
+}
+
+.navi li
+ a:hover {
+  background-color: orange;
+}
+/*** HEADER END ***/
+/*** CONTENT SECTION START ***/
+.p{	font-color: black;
+	font-size: 20px
+}
+/*** CONTENT SECTION END ***/
